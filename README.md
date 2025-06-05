@@ -18,4 +18,4 @@ I'm a Computer Science student and software developer passionate about building 
 ### 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/avichai-mizrachi)  
 [GitHub](https://github.com/Avichai-Mizrachi)  
-Email: avichai447@gmail.com
+avichai447@gmail.com

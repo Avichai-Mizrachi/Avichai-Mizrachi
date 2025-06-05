@@ -15,6 +15,8 @@ I'm a Computer Science student and software developer passionate about building 
 - **[Networks-Final](https://github.com/Avichai-Mizrachi/Networks-Final)** – Simulated DNS/DHCP servers with a Python-based client.
 - **[C_Ex4](https://github.com/Avichai-Mizrachi/C_Ex4)** – Graph creation and shortest path in C.
 
+![Avichai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avichai-Mizrachi&show_icons=true&theme=radical)
+
 ### 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/avichai-mizrachi)  
 [GitHub](https://github.com/Avichai-Mizrachi)  

@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi, I'm Avichai Mizrachi
 
-<!--
-**Avichai-Mizrachi/Avichai-Mizrachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and software developer passionate about building things that make an impact.
 
-Here are some ideas to get you started:
+- 🌐 Exploring full-stack development
+- ⚡ Enjoy algorithms, clean code, and problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Languages: C, C++, Python, Java, JavaScript
+- Tools: Git, Linux, Makefile, VS Code
+- Areas: Networking, System Programming, Data Structures
+
+### 📌 Selected Projects
+- **[C-SpecialNumbers](https://github.com/Avichai-Mizrachi/C-SpecialNumbers)** – Classifies numbers using recursion and iteration.
+- **[Networks-Final](https://github.com/Avichai-Mizrachi/Networks-Final)** – Simulated DNS/DHCP servers with a Python-based client.
+- **[C_Ex4](https://github.com/Avichai-Mizrachi/C_Ex4)** – Graph creation and shortest path in C.
+
+### 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/avichai-mizrachi)  
+[GitHub](https://github.com/Avichai-Mizrachi)  
+Email: avichai447@gmail.com

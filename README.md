@@ -17,7 +17,7 @@
 ### 💻 Tech Stack
 
 - **Languages:** Java, Python, C++, C, JavaScript
-- **Technologies:** Multithreading, REST APIs, OOP, Git, Linux, Makefile, Machine Learning (basic)
+- **Technologies:** Multithreading, REST APIs, OOP, Git, Linux, Makefile, Machine Learning
 - **Tools:** IntelliJ, VS Code, PyCharm, GitHub, GCC
 
 ---
